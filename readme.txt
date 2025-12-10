@@ -1,0 +1,1 @@
+Etapa recolección de datos

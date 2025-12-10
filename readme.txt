@@ -1,1 +1,1 @@
-Etapa recolección de datos
+Bro hoy me levanté gay

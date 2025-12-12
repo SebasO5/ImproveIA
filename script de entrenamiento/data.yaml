@@ -1,0 +1,8 @@
+train: C:/Users/matew/Documents/Dataset/ImproveIA/images/train
+val: C:/Users/matew/Documents/Dataset/ImproveIA/images/val
+
+# Número de clases
+nc: 14
+
+# Nombres de las clases (el orden debe coincidir con los class_id)
+names: ['Mantequilla', 'cocoa', 'agua', 'Sal', 'leche', 'aceite', 'levadura', 'polvohornear', 'harina', 'huevos', 'quesocrema', 'esenciavainilla', 'yogurt', 'azucar']
